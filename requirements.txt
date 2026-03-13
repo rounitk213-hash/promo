@@ -1,0 +1,4 @@
+telethon
+aiohttp
+croniter
+nest_asyncio
